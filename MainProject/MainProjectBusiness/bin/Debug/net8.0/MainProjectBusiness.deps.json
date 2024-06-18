@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MainProjectBusiness/1.0.0": {
+        "dependencies": {
+          "MainProjectCore": "1.0.0"
+        },
+        "runtime": {
+          "MainProjectBusiness.dll": {}
+        }
+      },
+      "MainProjectCore/1.0.0": {
+        "dependencies": {
+          "MainProjectData": "1.0.0"
+        },
+        "runtime": {
+          "MainProjectCore.dll": {}
+        }
+      },
+      "MainProjectData/1.0.0": {
+        "runtime": {
+          "MainProjectData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MainProjectBusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MainProjectCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MainProjectData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

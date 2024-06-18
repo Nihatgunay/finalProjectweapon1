@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\MainProject\MainProjectBusiness\bin\Debug\net8.0\MainProjectBusiness.deps.json
+C:\Users\Lenovo\source\repos\MainProject\MainProjectBusiness\bin\Debug\net8.0\MainProjectBusiness.dll
+C:\Users\Lenovo\source\repos\MainProject\MainProjectBusiness\bin\Debug\net8.0\MainProjectBusiness.pdb
+C:\Users\Lenovo\source\repos\MainProject\MainProjectBusiness\bin\Debug\net8.0\MainProjectCore.dll
+C:\Users\Lenovo\source\repos\MainProject\MainProjectBusiness\bin\Debug\net8.0\MainProjectData.dll
+C:\Users\Lenovo\source\repos\MainProject\MainProjectBusiness\bin\Debug\net8.0\MainProjectCore.pdb
+C:\Users\Lenovo\source\repos\MainProject\MainProjectBusiness\bin\Debug\net8.0\MainProjectData.pdb
+C:\Users\Lenovo\source\repos\MainProject\MainProjectBusiness\obj\Debug\net8.0\MainProjectBusiness.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\MainProject\MainProjectBusiness\obj\Debug\net8.0\MainProjectBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\MainProject\MainProjectBusiness\obj\Debug\net8.0\MainProjectBusiness.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MainProject\MainProjectBusiness\obj\Debug\net8.0\MainProjectBusiness.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MainProject\MainProjectBusiness\obj\Debug\net8.0\MainProjectBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MainProject\MainProjectBusiness\obj\Debug\net8.0\MainProj.10929D99.Up2Date
+C:\Users\Lenovo\source\repos\MainProject\MainProjectBusiness\obj\Debug\net8.0\MainProjectBusiness.dll
+C:\Users\Lenovo\source\repos\MainProject\MainProjectBusiness\obj\Debug\net8.0\refint\MainProjectBusiness.dll
+C:\Users\Lenovo\source\repos\MainProject\MainProjectBusiness\obj\Debug\net8.0\MainProjectBusiness.pdb
+C:\Users\Lenovo\source\repos\MainProject\MainProjectBusiness\obj\Debug\net8.0\ref\MainProjectBusiness.dll

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\MainProject\MainProjectCore\bin\Debug\net8.0\MainProjectCore.deps.json
+C:\Users\Lenovo\source\repos\MainProject\MainProjectCore\bin\Debug\net8.0\MainProjectCore.dll
+C:\Users\Lenovo\source\repos\MainProject\MainProjectCore\bin\Debug\net8.0\MainProjectCore.pdb
+C:\Users\Lenovo\source\repos\MainProject\MainProjectCore\bin\Debug\net8.0\MainProjectData.dll
+C:\Users\Lenovo\source\repos\MainProject\MainProjectCore\bin\Debug\net8.0\MainProjectData.pdb
+C:\Users\Lenovo\source\repos\MainProject\MainProjectCore\obj\Debug\net8.0\MainProjectCore.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\MainProject\MainProjectCore\obj\Debug\net8.0\MainProjectCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\MainProject\MainProjectCore\obj\Debug\net8.0\MainProjectCore.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MainProject\MainProjectCore\obj\Debug\net8.0\MainProjectCore.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MainProject\MainProjectCore\obj\Debug\net8.0\MainProjectCore.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MainProject\MainProjectCore\obj\Debug\net8.0\MainProj.E9742D5B.Up2Date
+C:\Users\Lenovo\source\repos\MainProject\MainProjectCore\obj\Debug\net8.0\MainProjectCore.dll
+C:\Users\Lenovo\source\repos\MainProject\MainProjectCore\obj\Debug\net8.0\refint\MainProjectCore.dll
+C:\Users\Lenovo\source\repos\MainProject\MainProjectCore\obj\Debug\net8.0\MainProjectCore.pdb
+C:\Users\Lenovo\source\repos\MainProject\MainProjectCore\obj\Debug\net8.0\ref\MainProjectCore.dll

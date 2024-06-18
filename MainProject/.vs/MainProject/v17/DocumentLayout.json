@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\MainProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08DF9D51-72ED-4DAB-A9D5-F0F3EDCB7C68}|MainProjectCA\\MainProjectCA.csproj|c:\\users\\lenovo\\source\\repos\\mainproject\\mainprojectca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DF9D51-72ED-4DAB-A9D5-F0F3EDCB7C68}|MainProjectCA\\MainProjectCA.csproj|solutionrelative:mainprojectca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F3B305-34DE-4C7E-8B9F-1416593632AA}|MainProjectBusiness\\MainProjectBusiness.csproj|c:\\users\\lenovo\\source\\repos\\mainproject\\mainprojectbusiness\\implementations\\pistolmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F3B305-34DE-4C7E-8B9F-1416593632AA}|MainProjectBusiness\\MainProjectBusiness.csproj|solutionrelative:mainprojectbusiness\\implementations\\pistolmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F3B305-34DE-4C7E-8B9F-1416593632AA}|MainProjectBusiness\\MainProjectBusiness.csproj|c:\\users\\lenovo\\source\\repos\\mainproject\\mainprojectbusiness\\implementations\\weaponmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F3B305-34DE-4C7E-8B9F-1416593632AA}|MainProjectBusiness\\MainProjectBusiness.csproj|solutionrelative:mainprojectbusiness\\implementations\\weaponmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80EBB01B-D4CF-44A9-B819-F20F62EEC05A}|MainProjectCore\\MainProjectCore.csproj|c:\\users\\lenovo\\source\\repos\\mainproject\\mainprojectcore\\weaponak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80EBB01B-D4CF-44A9-B819-F20F62EEC05A}|MainProjectCore\\MainProjectCore.csproj|solutionrelative:mainprojectcore\\weaponak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80EBB01B-D4CF-44A9-B819-F20F62EEC05A}|MainProjectCore\\MainProjectCore.csproj|c:\\users\\lenovo\\source\\repos\\mainproject\\mainprojectcore\\weaponpistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80EBB01B-D4CF-44A9-B819-F20F62EEC05A}|MainProjectCore\\MainProjectCore.csproj|solutionrelative:mainprojectcore\\weaponpistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F3B305-34DE-4C7E-8B9F-1416593632AA}|MainProjectBusiness\\MainProjectBusiness.csproj|c:\\users\\lenovo\\source\\repos\\mainproject\\mainprojectbusiness\\interfaces\\ipistolmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F3B305-34DE-4C7E-8B9F-1416593632AA}|MainProjectBusiness\\MainProjectBusiness.csproj|solutionrelative:mainprojectbusiness\\interfaces\\ipistolmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F3B305-34DE-4C7E-8B9F-1416593632AA}|MainProjectBusiness\\MainProjectBusiness.csproj|c:\\users\\lenovo\\source\\repos\\mainproject\\mainprojectbusiness\\interfaces\\iweaponmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F3B305-34DE-4C7E-8B9F-1416593632AA}|MainProjectBusiness\\MainProjectBusiness.csproj|solutionrelative:mainprojectbusiness\\interfaces\\iweaponmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80EBB01B-D4CF-44A9-B819-F20F62EEC05A}|MainProjectCore\\MainProjectCore.csproj|c:\\users\\lenovo\\source\\repos\\mainproject\\mainprojectcore\\mainprojectcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80EBB01B-D4CF-44A9-B819-F20F62EEC05A}|MainProjectCore\\MainProjectCore.csproj|solutionrelative:mainprojectcore\\mainprojectcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F3B305-34DE-4C7E-8B9F-1416593632AA}|MainProjectBusiness\\MainProjectBusiness.csproj|c:\\users\\lenovo\\source\\repos\\mainproject\\mainprojectbusiness\\mainprojectbusiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3F3B305-34DE-4C7E-8B9F-1416593632AA}|MainProjectBusiness\\MainProjectBusiness.csproj|solutionrelative:mainprojectbusiness\\mainprojectbusiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DF9D51-72ED-4DAB-A9D5-F0F3EDCB7C68}|MainProjectCA\\MainProjectCA.csproj|c:\\users\\lenovo\\source\\repos\\mainproject\\mainprojectca\\mainprojectca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{08DF9D51-72ED-4DAB-A9D5-F0F3EDCB7C68}|MainProjectCA\\MainProjectCA.csproj|solutionrelative:mainprojectca\\mainprojectca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01515857-2EEF-44D1-8737-7E40E5557B12}|MainProjectData\\MainProjectData.csproj|c:\\users\\lenovo\\source\\repos\\mainproject\\mainprojectdata\\modeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01515857-2EEF-44D1-8737-7E40E5557B12}|MainProjectData\\MainProjectData.csproj|solutionrelative:mainprojectdata\\modeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PistolMethods.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MainProject\\MainProjectBusiness\\Implementations\\PistolMethods.cs",
+              "RelativeDocumentMoniker": "MainProjectBusiness\\Implementations\\PistolMethods.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MainProject\\MainProjectBusiness\\Implementations\\PistolMethods.cs",
+              "RelativeToolTip": "MainProjectBusiness\\Implementations\\PistolMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:14:32.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPistolMethods.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MainProject\\MainProjectBusiness\\Interfaces\\IPistolMethods.cs",
+              "RelativeDocumentMoniker": "MainProjectBusiness\\Interfaces\\IPistolMethods.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MainProject\\MainProjectBusiness\\Interfaces\\IPistolMethods.cs",
+              "RelativeToolTip": "MainProjectBusiness\\Interfaces\\IPistolMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:13:55.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeaponPistol.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MainProject\\MainProjectCore\\WeaponPistol.cs",
+              "RelativeDocumentMoniker": "MainProjectCore\\WeaponPistol.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MainProject\\MainProjectCore\\WeaponPistol.cs",
+              "RelativeToolTip": "MainProjectCore\\WeaponPistol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:04:31.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainProjectCA.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MainProject\\MainProjectCA\\MainProjectCA.csproj",
+              "RelativeDocumentMoniker": "MainProjectCA\\MainProjectCA.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MainProject\\MainProjectCA\\MainProjectCA.csproj",
+              "RelativeToolTip": "MainProjectCA\\MainProjectCA.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-17T09:20:46.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainProjectBusiness.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MainProject\\MainProjectBusiness\\MainProjectBusiness.csproj",
+              "RelativeDocumentMoniker": "MainProjectBusiness\\MainProjectBusiness.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MainProject\\MainProjectBusiness\\MainProjectBusiness.csproj",
+              "RelativeToolTip": "MainProjectBusiness\\MainProjectBusiness.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-17T09:20:34.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainProjectCore.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MainProject\\MainProjectCore\\MainProjectCore.csproj",
+              "RelativeDocumentMoniker": "MainProjectCore\\MainProjectCore.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MainProject\\MainProjectCore\\MainProjectCore.csproj",
+              "RelativeToolTip": "MainProjectCore\\MainProjectCore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-17T09:20:22.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeaponMethods.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MainProject\\MainProjectBusiness\\Implementations\\WeaponMethods.cs",
+              "RelativeDocumentMoniker": "MainProjectBusiness\\Implementations\\WeaponMethods.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MainProject\\MainProjectBusiness\\Implementations\\WeaponMethods.cs",
+              "RelativeToolTip": "MainProjectBusiness\\Implementations\\WeaponMethods.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:08:19.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IWeaponMethods.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MainProject\\MainProjectBusiness\\Interfaces\\IWeaponMethods.cs",
+              "RelativeDocumentMoniker": "MainProjectBusiness\\Interfaces\\IWeaponMethods.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MainProject\\MainProjectBusiness\\Interfaces\\IWeaponMethods.cs",
+              "RelativeToolTip": "MainProjectBusiness\\Interfaces\\IWeaponMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:08:08.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeaponAK.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MainProject\\MainProjectCore\\WeaponAK.cs",
+              "RelativeDocumentMoniker": "MainProjectCore\\WeaponAK.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MainProject\\MainProjectCore\\WeaponAK.cs",
+              "RelativeToolTip": "MainProjectCore\\WeaponAK.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:05:51.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ModeException.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MainProject\\MainProjectData\\ModeException.cs",
+              "RelativeDocumentMoniker": "MainProjectData\\ModeException.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MainProject\\MainProjectData\\ModeException.cs",
+              "RelativeToolTip": "MainProjectData\\ModeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:03:54.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MainProject\\MainProjectCA\\Program.cs",
+              "RelativeDocumentMoniker": "MainProjectCA\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MainProject\\MainProjectCA\\Program.cs",
+              "RelativeToolTip": "MainProjectCA\\Program.cs",
+              "ViewState": "AQIAADAAAABAZmZmZmYswEYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:03:15.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

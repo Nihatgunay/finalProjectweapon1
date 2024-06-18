@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\MainProject\MainProjectData\bin\Debug\net8.0\MainProjectData.deps.json
+C:\Users\Lenovo\source\repos\MainProject\MainProjectData\bin\Debug\net8.0\MainProjectData.dll
+C:\Users\Lenovo\source\repos\MainProject\MainProjectData\bin\Debug\net8.0\MainProjectData.pdb
+C:\Users\Lenovo\source\repos\MainProject\MainProjectData\obj\Debug\net8.0\MainProjectData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\MainProject\MainProjectData\obj\Debug\net8.0\MainProjectData.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MainProject\MainProjectData\obj\Debug\net8.0\MainProjectData.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MainProject\MainProjectData\obj\Debug\net8.0\MainProjectData.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MainProject\MainProjectData\obj\Debug\net8.0\MainProjectData.dll
+C:\Users\Lenovo\source\repos\MainProject\MainProjectData\obj\Debug\net8.0\refint\MainProjectData.dll
+C:\Users\Lenovo\source\repos\MainProject\MainProjectData\obj\Debug\net8.0\MainProjectData.pdb
+C:\Users\Lenovo\source\repos\MainProject\MainProjectData\obj\Debug\net8.0\ref\MainProjectData.dll
